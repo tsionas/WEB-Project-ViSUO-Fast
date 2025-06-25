@@ -1,7 +1,7 @@
-# Simple Geometry Visibility Tool (SGVT)
+# Simple Geometry Visibility Tool ViSUO-Fast
 Produced by UCLouvain, BE under the Wind Energy for Brussels (WEB) Project, co-financed by Innoviris.
 ### Overview
-The **Simple Geometry Visibility Tool (SGVT)** was developed within ArcGIS Pro using **Model Builder** and is designed for **parametrized visibility analysis (VA)** of multiple **Small Urban Objects (SUOs)** from multiple **observation points (OPs)**. 
+The **ViSUO-Fast** was developed within ArcGIS Pro using **Model Builder** and is designed for **parametrized visibility analysis (VA)** of multiple **Small Urban Objects (SUOs)** from multiple **observation points (OPs)**. 
 
 Using **line-of-sight (LOS) calculations**, SGVT determines whether each SUO is visible from each OP. The tool provides both **analytical outputs** and **descriptive statistics** characterizing visibility relations across the study area.
 
@@ -50,6 +50,4 @@ One needs to load the toolbox (.tbx file) to ArcGIS Pro from the Catalog.
 - ArcGIS Pro with **Model Builder**
 
 #### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/SGVT.git
+
